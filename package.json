@@ -1,6 +1,6 @@
 {
-  "name": "object-query",
-  "version": "0.0.1",
+  "name": "object-string-query",
+  "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0"
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/marbaj/object-query.git"
   },
-  "author": "Marko Bajic",
+  "author": "Marko Bajic <marko.bajic@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/marbaj/object-query/issues"
