@@ -1,9 +1,25 @@
 {
-  "name": "Object-query",
+  "name": "object-query",
   "version": "0.0.1",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0"
+  },
+  "description": "query objects with string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marbaj/object-query.git"
+  },
+  "author": "Marko Bajic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marbaj/object-query/issues"
   }
 }
