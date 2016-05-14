@@ -1,0 +1,9 @@
+{
+  "name": "Object-query",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
