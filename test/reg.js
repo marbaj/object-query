@@ -1,3 +1,5 @@
+"use strict"
+
 var reg =[]
 let c = 0;
 reg[c++] = /\[[0-9]\]+/g;
